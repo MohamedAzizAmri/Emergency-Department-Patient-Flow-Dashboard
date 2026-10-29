@@ -137,12 +137,9 @@ The repository can be organized as follows:
 ED-Business-Intelligence/
 ├── data/
 │   └── cleaned_dataset.csv
-├── notebooks/
-│   └── data_preparation.ipynb
+├── ETL_process.py
 ├── powerbi/
 │   └── emergency_department_dashboard.pbix
-├── documentation/
-│   └── data_dictionary.md
 └── README.md
 ```
 
